@@ -1,7 +1,9 @@
 package com.app.andym.multimillionaire;
 
 import android.app.Activity;
+import android.graphics.Typeface;
 import android.os.Bundle;
+import android.widget.TextView;
 
 
 /**
@@ -31,6 +33,11 @@ public class main_principal extends Activity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_principal);
+
+        TextView texto = (TextView)findViewById(R.id.texto);
+        Typeface face=Typeface.createFromAsset(getAssets(), "fonts/Action Force Normal.ttf");
+        texto.setTypeface(face);
+        //texto.setText(getText(R.string.text));
 
     }
 
