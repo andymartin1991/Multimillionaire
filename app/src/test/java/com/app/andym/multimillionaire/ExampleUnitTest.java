@@ -1,4 +1,4 @@
-package com.app.andym.richbronze;
+package com.app.andym.multimillionaire;
 
 import org.junit.Test;
 

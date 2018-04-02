@@ -1,4 +1,4 @@
-package com.app.andym.richbronze;
+package com.app.andym.multimillionaire;
 
 import android.app.Activity;
 import android.content.Intent;;
@@ -8,6 +8,8 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+
+
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 

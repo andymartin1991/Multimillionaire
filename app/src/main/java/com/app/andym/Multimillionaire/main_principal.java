@@ -1,7 +1,8 @@
-package com.app.andym.richbronze;
+package com.app.andym.multimillionaire;
 
 import android.app.Activity;
 import android.os.Bundle;
+
 
 /**
  * Created by andym on 01/04/2018.

@@ -1,4 +1,4 @@
-package com.app.andym.richbronze;
+package com.app.andym.multimillionaire;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.app.andym.richbronze", appContext.getPackageName());
+        assertEquals("com.app.andym.multimillionaire", appContext.getPackageName());
     }
 }
