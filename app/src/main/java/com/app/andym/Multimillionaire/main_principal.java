@@ -26,7 +26,7 @@ import android.os.Bundle;
  * Diamante: 12.172€
  * Grandidierite: 24.344€
  */
-
+//////////////////
 public class main_principal extends Activity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
